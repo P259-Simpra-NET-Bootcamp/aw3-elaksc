@@ -27,7 +27,7 @@ git clone https://github.com/P259-Simpra-NET-Bootcamp/aw3-elaksc.git
 Navigate to the project folder.
 
 ```bash
-cd aw2-elaksc
+cd aw3-elaksc
 ```
 Compile and run the project.
 
