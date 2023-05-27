@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQT0wXSBb70CnGnUEH5HJHpm/D8N28URDRw6eH71PLQszjKz/Oc13cnb4TBAoH4gz+r+pm+vffDZXSZrDnz6Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elaka\\Downloads\\pk-sim-main\\pk-sim-main\\SimApi\\SimApi.Base\\SimApi.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elaka\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
